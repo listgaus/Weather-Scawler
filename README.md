@@ -1,5 +1,5 @@
 # Weather-Scawler 
-This is an app i've built for an interview  <br>
+This is an app i've built from scratch <br>
 stack is node express js html css bootstrap ajax json <br>
 the purpose of this app is to scrape and imitate an exsiting weather engine without using API <br>
 The logic is simple : User end types city, info is parsed and sent to server which then calls the 2nd sever to retreive the info
